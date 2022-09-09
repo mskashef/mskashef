@@ -49,6 +49,7 @@ In July 2019, I started working with `React.js`. Always I was trying to expand m
 
 ## My Open-source Projects
 - SimpleSearch: [https://github.com/mskashef/SimpleSearch](https://github.com/mskashef/SimpleSearch)
+- TS CSV Stream reader: [https://github.com/mskashef/ts-csv-file-reader](https://github.com/mskashef/ts-csv-file-reader)
 - React Piano: [https://github.com/mskashef/react-piano](https://github.com/mskashef/react-piano)
 - React Ripple Effect: [https://github.com/mskashef/react-ripple-effect](https://github.com/mskashef/react-ripple-effect)
 - Matrix Iteration with Genetic Algorithm: [https://github.com/mskashef/matrixIterationWithGeneticAlgorithm](https://github.com/mskashef/matrixIterationWithGeneticAlgorithm)
