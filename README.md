@@ -47,6 +47,7 @@ In July 2019, I started working with `React.js`. Always I was trying to expand m
 - Flatten Tree: [https://www.npmjs.com/package/@mskashef/flatten-tree](https://www.npmjs.com/package/@mskashef/flatten-tree)
 - DFS Search: [https://www.npmjs.com/package/@mskashef/dfs-search](https://www.npmjs.com/package/@mskashef/dfs-search)
 - array2matrix: [https://www.npmjs.com/package/@mskashef/array2matrix](https://www.npmjs.com/package/@mskashef/array2matrix)
+- Merge k sorted lists: [https://www.npmjs.com/package/@mskashef/merge-k-sorted-lists](https://www.npmjs.com/package/@mskashef/merge-k-sorted-lists۰
 
 ## My Open-source Projects
 - SimpleSearch: [https://github.com/mskashef/SimpleSearch](https://github.com/mskashef/SimpleSearch)
