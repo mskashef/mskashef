@@ -46,6 +46,7 @@ In July 2019, I started working with `React.js`. Always I was trying to expand m
 ## My NPM Modules
 - Flatten Tree: [https://www.npmjs.com/package/@mskashef/flatten-tree](https://www.npmjs.com/package/@mskashef/flatten-tree)
 - DFS Search: [https://www.npmjs.com/package/@mskashef/dfs-search](https://www.npmjs.com/package/@mskashef/dfs-search)
+- array2matrix: [https://www.npmjs.com/package/@mskashef/array2matrix](https://www.npmjs.com/package/@mskashef/array2matrix)
 
 ## My Open-source Projects
 - SimpleSearch: [https://github.com/mskashef/SimpleSearch](https://github.com/mskashef/SimpleSearch)
