@@ -46,3 +46,8 @@ In July 2019, I started working with `React.js`. Always I was trying to expand m
 ## My NPM Modules
 - Flatten Tree: [https://www.npmjs.com/package/@mskashef/flatten-tree](https://www.npmjs.com/package/@mskashef/flatten-tree)
 - DFS Search: [https://www.npmjs.com/package/@mskashef/dfs-search](https://www.npmjs.com/package/@mskashef/dfs-search)
+
+## My Open-source Projects
+- SimpleSearch: [https://github.com/mskashef/SimpleSearch](https://github.com/mskashef/SimpleSearch)
+- React Piano: [https://github.com/mskashef/react-piano](https://github.com/mskashef/react-piano)
+- React Ripple Effect: [https://github.com/mskashef/react-ripple-effect](https://github.com/mskashef/react-ripple-effect)
