@@ -51,3 +51,5 @@ In July 2019, I started working with `React.js`. Always I was trying to expand m
 - SimpleSearch: [https://github.com/mskashef/SimpleSearch](https://github.com/mskashef/SimpleSearch)
 - React Piano: [https://github.com/mskashef/react-piano](https://github.com/mskashef/react-piano)
 - React Ripple Effect: [https://github.com/mskashef/react-ripple-effect](https://github.com/mskashef/react-ripple-effect)
+- Matrix Iteration with Genetic Algorithm: [https://github.com/mskashef/matrixIterationWithGeneticAlgorithm](https://github.com/mskashef/matrixIterationWithGeneticAlgorithm)
+- Resolution Algorithm implementation: [https://github.com/mskashef/Resolution](https://github.com/mskashef/Resolution)
