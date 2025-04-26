@@ -15,7 +15,6 @@ In July 2019, I started working with `React.js`. Always I was trying to expand m
   gitHub: 'mskashef',
   npmjs: 'mskashef',
   email: 'mohammadsadeghmk[at]gmail.com',
-  phoneNumber: '+98 901 061 5710',
   telegram: 'mskashef'
 }
 ```
